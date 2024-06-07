@@ -5,7 +5,13 @@
 </div>
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm JangHyeok. 🌱 <br>
+I'm JangHyeok. 🌱
+  <br>
+  <br>
+ I am the representative of Kookmin University's Like Lion (멋쟁이 사자처럼) 12th Generation. 🦁
+  <br>
+  <br>
+I am double majoring in Korean History and Software (Computer Science) at Kookmin University. 🏫
 </p>
 <div align="center">
 </div>
@@ -21,21 +27,12 @@ I'm JangHyeok. 🌱 <br>
   </p>
  
 <br/>  
-<h3 align="center">💬 Ask me about </h3>
+<h3 align="center">💬 Ask me about 💬</h3>
 
 <p align="center">
   <a href="mailto:qkdrhkgn123@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkdrhkgn123@gmail.com"/></a>
  </p>
 
- <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjanghyeok&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=imjanghyeok&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=59% />
-</a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=imjanghyeok&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
-</a>
 
 <div align="center">
   
