@@ -37,11 +37,9 @@ I am double majoring in Korean History and Software (Computer Science) at Kookmi
 <div align="center">
   
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/imjanghyeok?pet-id=586892219579710584"
+  <img src="https://render.gitanimals.org/farms/imjanghyeok"
     width="100%"
-    height="200"
-  />
+    height="300"/>
 </a>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
