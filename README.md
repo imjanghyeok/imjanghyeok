@@ -3,16 +3,15 @@
 
   
 </div>
-<h3 align="center"> 👋 Hi there 👋 </h3>
+<h3 align="center">👋 Hi there 👋</h3>
 <p align="center">
-I'm JangHyeok. 🌱
+I'm JangHyeok. 🌱  
+  <br><br>
+I served as the 12th Generation Representative of Like Lion (멋쟁이 사자처럼).  
   <br>
-  <br>
- I am the representative of Kookmin University's Like Lion (멋쟁이 사자처럼) 12th Generation. 🦁
-  <br>
-  <br>
-I am double majoring in Korean History and Software (Computer Science) at Kookmin University. 🏫
+I majored in Korean history and software (computer science) at Kookmin University. 🏫
 </p>
+
 <div align="center">
 </div>
 <br/>
