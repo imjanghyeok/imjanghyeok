@@ -8,9 +8,7 @@
 I'm JangHyeok. 🌱  
   <br><br>
 I served as the 12th Generation Representative of Like Lion (멋쟁이 사자처럼).  
-  <br>
-    <br>
-
+  <br><br>
 I majored in Korean history and software (computer science) at Kookmin University. 🏫
 </p>
 
